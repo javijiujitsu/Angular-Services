@@ -1,6 +1,5 @@
 import { Component, OnInit} from '@angular/core';
 import { CounterService } from '../services/counter.service';
-
 @Component({
   selector: 'app-my-second-counter',
   templateUrl: './my-second-counter.component.html',
